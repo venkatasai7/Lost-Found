@@ -33,9 +33,9 @@ The project structure is organized as follows:
   - Updating user information.
   - Uploading profile pictures.
     
-```markdown
-## Installation
 
+## Installation
+```markdown
 1. Clone the repository:
 
    ```bash
