@@ -35,7 +35,10 @@ The project structure is organized as follows:
     
 
 ## Installation
+
 ```markdown
+
+
 1. Clone the repository:
 
    ```bash
