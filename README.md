@@ -1,6 +1,5 @@
-Here's the updated README with the replacements:
 
-```markdown
+
 # Django Project README
 
 This repository contains a Django project for managing posts and user authentication.
@@ -33,7 +32,8 @@ The project structure is organized as follows:
 - User profile management:
   - Updating user information.
   - Uploading profile pictures.
-
+    
+```markdown
 ## Installation
 
 1. Clone the repository:
