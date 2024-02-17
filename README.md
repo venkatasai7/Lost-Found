@@ -76,4 +76,5 @@ The project structure is organized as follows:
 
 ## Contributors
 
-- **venkatasai7**: Initial project setup and development.
+- venkatasai7
+- mhv2408
